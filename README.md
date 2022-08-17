@@ -1,7 +1,7 @@
 ## 
 Hello, my name is Isabela. I'm an enthusiastic programmer who loves what he does!
 <div align="center">
-  <a href="https://github.com/isabduran">
+  <a href="https://github.com/belladuran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabduran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabduran&layout=compact&langs_count=7&theme=dracula"/>
 </div>
