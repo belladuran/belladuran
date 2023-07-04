@@ -1,5 +1,5 @@
 ## 
-Hello, my name is Isabella. I'm an enthusiastic programmer who loves what he does!
+Hello <3
 <div align="center">
   <a href="https://github.com/belladuran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belladuran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
