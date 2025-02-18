@@ -9,7 +9,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
----
 
 ### Technologies & Frameworks
 
@@ -18,7 +17,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
 
 ### Design
 
@@ -26,12 +24,9 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-000000?style=for-the-badge&logo=adobe&logoColor=white)
 
----
 
 ### Version Control
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
----
 
