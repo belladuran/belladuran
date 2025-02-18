@@ -1,5 +1,6 @@
 <p align="center">hi <3</p>
-<br>
+      
+---
 
 <p align="center">
       i'm bella.<br> a front-end developer and UX/UI designer.<br>
