@@ -1,6 +1,8 @@
-i'm bella.
+<h1 align="center">hi <3</h1>
 
-a front-end developer and UX/UI designer.
+<p align="center">
+      i'm bella.<br> a front-end developer and UX/UI designer.<br>
+</p>
 
 ---
 
@@ -32,4 +34,4 @@ a front-end developer and UX/UI designer.
 ![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-000000?style=for-the-badge&logo=adobe&logoColor=white)
 
 
-▶ *Saiba mais*
+<details>
