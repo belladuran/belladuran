@@ -4,7 +4,6 @@
       i'm bella.<br> a front-end developer and UX/UI designer.<br>
 </p>
 
----
 
 ### Languages
 
