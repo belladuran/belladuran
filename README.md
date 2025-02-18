@@ -33,4 +33,3 @@
 ![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-000000?style=for-the-badge&logo=adobe&logoColor=white)
 
 
-<details>
