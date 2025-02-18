@@ -1,4 +1,4 @@
-i'm Bella.
+i'm bella.
 
 a front-end developer and UX/UI designer.
 
