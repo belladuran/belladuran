@@ -1,4 +1,4 @@
-<h1 align="center">hi <3</h1>
+<p align="center">hi <3</p>
 <br>
 
 <p align="center">
