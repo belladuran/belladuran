@@ -1,5 +1,6 @@
-*i'm Bella.*
-*a front-end developer and UX/UI designer.*
+i'm Bella.
+
+a front-end developer and UX/UI designer.
 
 ---
 
