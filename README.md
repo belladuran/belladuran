@@ -19,6 +19,12 @@ a front-end developer and UX/UI designer.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+### Version Control
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+
 ### Design
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
@@ -26,8 +32,4 @@ a front-end developer and UX/UI designer.
 ![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-000000?style=for-the-badge&logo=adobe&logoColor=white)
 
 
-### Version Control
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
+▶ *Saiba mais*
